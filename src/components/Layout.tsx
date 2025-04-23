@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { useRouter } from 'react-router-dom';
+import { useRouter } from '../utils/router';
 import { toast } from 'sonner';
 
 interface LayoutProps {
